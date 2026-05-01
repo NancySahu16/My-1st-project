@@ -1,9 +1,21 @@
 ---
-title: my 1st project
+title: Sample Power BI project
 ---
 
-# Nancy
-my name is Nancy sahu. i am from Lucknow. I live in **Bangalore.**
+<img src="images/TW.png" alt="Logo" width="90"
+     style="float:left; margin-right:20px; margin-top:5px;" />
 
-Ayushri | Nancy | Nishu |
-5 | 7| 8|
+<br>
+<br>
+# Sample Power BI project
+
+Click the links below to view my project:
+
+- [my project](README.md)
+
+
+<div style="clear: both;"></div>
+
+---
+
+This project showcase as a work sample for demonstration purposes only.*
